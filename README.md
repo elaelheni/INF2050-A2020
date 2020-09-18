@@ -8,7 +8,7 @@ Les séances d'ateliers ne seront pas enregistrées.
 
 ## Contenu :
 
-- Première séance : !(./VSCode)
+- Première séance : IDE [VSCODE](./VSCode)
 
 
 ## Contact :
