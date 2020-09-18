@@ -16,5 +16,10 @@ Les fonctionnalités élémentaires de VSCode seront présentées durant l'ateli
 - Dans Command Palette -> Java : Configure Java Runtime, Selectionnez la version JDK 14 et Hotspot comme JVM.
 ![](./img/CommandPalette.png)
 
+## Exercices 
+
+L'énoncé est disponible sur ce [lien](https://github.com/jacquesberger/exemplesINF2050/blob/master/ateliers/VSCode/enonce.md)
+
+
 
 
