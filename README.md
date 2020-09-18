@@ -8,15 +8,15 @@ Les séances d'ateliers ne seront pas enregistrées.
 
 ## Contenu :
 
-- Première séance : (./VSCode)
+- Première séance : ![./VSCode]
 
 
 ## Contact :
 
 
-Au besoin, vous pouvez m'écrire à cette adresse : [mailto](el-heni.ela@uqam.ca).
+Au besoin, vous pouvez m'écrire à cette adresse : el-heni.ela@uqam.ca.
 
-Sinon pensez à rejoindre le canal du cours sur le [https://ageii-uqam.slack.com/](slack de l'AGEEI) ;)
+Sinon pensez à rejoindre le canal du cours sur le [slack de l'AGEEI](https://ageii-uqam.slack.com/) ;)
 
 
 ## Liens utiles :
