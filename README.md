@@ -1,4 +1,4 @@
-# INF2050-A2020
+# Ateliers
 
 
 Ce dépot contient les solutionnaires des ateliers du cours INF2050.
