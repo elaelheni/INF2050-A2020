@@ -9,7 +9,7 @@ Les séances d'ateliers ne seront pas enregistrées.
 ## Contenu :
 
 - Première séance : IDE [VSCODE](./VSCode)
-
+- Deuxième séance : Initiation à [Git](./Git1)
 
 ## Contact :
 
