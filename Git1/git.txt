@@ -1,0 +1,18 @@
+# Pour créer un dépot Git et le relier à GitHub :
+
+1 - Créer un depot distant sur github.com (le depot distant et le repertoire doivent avoir le meme nom)
+2 - mkdir nom_rep ; cd nom_rep
+3 - git init
+4 - Ajouter des fichiers 
+3 - git add nom_fichier | git add . (pour ajouter tous les fichiers)
+4 - git commit -m "message pertinent" (un message pertinent permettera de retrouver le commit plus tard)
+5 - git remote add origin "https://github.com/nomutilisateur/nom_du_depot_git"
+6 - git pull origin master --allow-unrelated-histories
+7 - git push --set-upstream origin master
+
+
+
+
+# RQ :
+- L'étape 5 permet de relier le depot local au depot distant.
+- L'étape 6 permet de fusionner l'historique local avec l'historique distant.
