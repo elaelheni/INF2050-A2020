@@ -18,6 +18,10 @@ Au besoin, vous pouvez m'écrire à cette adresse : el-heni.ela@uqam.ca .
 
 Sinon pensez à rejoindre le canal du cours sur le [slack de l'AGEEI](https://ageii-uqam.slack.com/) ;)
 
+## Enregistrements :
+- La première séance n'a pas été enregistrée.
+- L'enregistrement de la deuxième séance n'est pas disponible.
+
 
 ## Liens utiles :
 
