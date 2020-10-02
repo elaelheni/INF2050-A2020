@@ -4,8 +4,6 @@
 Ce dépot contient les solutionnaires des ateliers du cours INF2050.
 
 
-Les séances d'ateliers ne seront pas enregistrées.
-
 ## Contenu :
 
 - Première séance : IDE [VSCODE](./VSCode)
