@@ -22,6 +22,7 @@ Sinon pensez à rejoindre le canal du cours sur le [slack de l'AGEEI](https://ag
 - La première séance n'a pas été enregistrée.
 - L'enregistrement de la deuxième séance n'est pas disponible.
 - L'enregistrement de la troisième séance est disponible [ici](https://drive.google.com/drive/folders/118CG3wFoUWv9qpRvUCC-ANG14vtF3Pk8?usp=sharing).
+- L'atelier de soutien n'a pas été entregistré.
 
 
 ## Liens utiles :
