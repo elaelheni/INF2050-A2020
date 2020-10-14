@@ -9,7 +9,7 @@ Ce dépot contient les solutionnaires des ateliers du cours INF2050.
 - Première séance : IDE [VSCODE](./VSCode)
 - Deuxième séance : Initiation à [Git](./Git1)
 - Troisième séance : Construction automatisée avec [Maven](./Maven1)
-- Séance cadeau : Atelier de [soutien](./Soutien)
+- Séance bonus : Atelier de [soutien](./Soutien)
 
 ## Contact :
 
