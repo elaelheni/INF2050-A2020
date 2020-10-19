@@ -10,6 +10,7 @@ Ce dépot contient les solutionnaires des ateliers du cours INF2050.
 - Deuxième séance : Initiation à [Git](./Git1)
 - Troisième séance : Construction automatisée avec [Maven](./Maven1)
 - Séance bonus : Atelier de [soutien](./Soutien)
+- Quatrième séance : Librairie JSON-LIB (./Json-Lib)
 
 ## Contact :
 
@@ -23,6 +24,7 @@ Sinon pensez à rejoindre le canal du cours sur le [slack de l'AGEEI](https://ag
 - L'enregistrement de la deuxième séance n'est pas disponible.
 - L'enregistrement de la troisième séance est disponible [ici](https://drive.google.com/drive/folders/118CG3wFoUWv9qpRvUCC-ANG14vtF3Pk8?usp=sharing).
 - L'atelier de soutien n'a pas été entregistré.
+- L'enregistrement de la quatrième séance est disponible [ici]()
 
 
 ## Liens utiles :
