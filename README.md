@@ -10,7 +10,7 @@ Ce dépot contient les solutionnaires des ateliers du cours INF2050.
 - Deuxième séance : Initiation à [Git](./Git1)
 - Troisième séance : Construction automatisée avec [Maven](./Maven1)
 - Séance bonus : Atelier de [soutien](./Soutien)
-- Quatrième séance : Librairie JSON-LIB (./Json-Lib)
+- Quatrième séance : Librairie [JSON-LIB] (./Json-Lib)
 
 ## Contact :
 
