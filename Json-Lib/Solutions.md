@@ -1,6 +1,6 @@
-#Correction
+# Correction
 
-##Exercices
+## Exercices
 
 1. Écrivez un programme qui lit ce [document JSON](./json/collection.json) et qui affiche à la
    console les informations suivantes :
