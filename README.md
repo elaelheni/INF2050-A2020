@@ -11,6 +11,7 @@ Ce dépot contient les solutionnaires des ateliers du cours INF2050.
 - Troisième séance : Construction automatisée avec [Maven](./Maven1)
 - Séance bonus : Atelier de [soutien](./Soutien)
 - Quatrième séance : Librairie [JSON-LIB](./Json-Lib)
+- Cinquième séance : [Normes de codification et Analyse statique](./Normes+PMD)
 
 ## Contact :
 
