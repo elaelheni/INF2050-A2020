@@ -8,21 +8,21 @@ public final class IdentifierTransformation {
         return new String(workString);
     }
 
-    public static String snakeCaseIdentifierToCamelCase(String identifier) {
-        char[] workString = identifier.toLowerCase().toCharArray();
 
-        boolean firstCharacterMet = false;
-        for (int charIndex = 0; charIndex < workString.length; charIndex++) {
-            if (workString[charIndex] == '_' && firstCharacterMet) {
-                if (charIndex < workString.length - 1) {
-                    workString[charIndex + 1] = Character.toUpperCase(workString[charIndex + 1]);
+    public static String snakeCaseIdentifierToCamelCase(String identifier) {
+        StringBuilder workString = new StringBuilder();
+
+        for (int charIndex = 0; charIndex < identifier.length() ; charIndex++) {
+            if (identifier.charAt(charIndex) == '_'){
+                if (charIndex != 0 && charIndex != identifier.length()-1) {
+                    workString.append(Character.toUpperCase(identifier.charAt(++charIndex)));
                 }
             } else {
-                firstCharacterMet = true;
+
+                workString.append(Character.toLowerCase(identifier.charAt(charIndex)));
             }
         }
-
-        return new String(workString).replace("_", "");
+        return workString.toString();
     }
 }
 
