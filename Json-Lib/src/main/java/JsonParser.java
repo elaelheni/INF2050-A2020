@@ -22,7 +22,7 @@ public class JsonParser {
         }
     }
 
-    public static ArrayList<Album> jsonFileToAlbum (String filename) throws IOException {
+    public static ArrayList<Album> jsonFileToAlbum (String filename) throws IOException{
         ArrayList<Album> albums = new ArrayList<>();
         String jsonString = DiskFile.loadFileIntoString(filename);
         JSONObject objet = (JSONObject) JSONSerializer.toJSON(jsonString);

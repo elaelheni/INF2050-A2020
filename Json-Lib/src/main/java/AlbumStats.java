@@ -1,14 +1,17 @@
+import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.util.ArrayList;
 
 public class AlbumStats {
 
     public static void main (String[] args){
-        String filename = "./json/collection.json";
+        String filename ="collection.json";
         try{
             ArrayList<Album> albums = JsonParser.jsonFileToAlbum(filename);
             stat(albums);
 
+        } catch (FileNotFoundException e ) {
+            e.printStackTrace();
         } catch (IOException e){
             e.printStackTrace();
         }

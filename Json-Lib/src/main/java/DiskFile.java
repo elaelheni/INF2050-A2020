@@ -16,7 +16,6 @@
 
 
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import org.apache.commons.io.FileUtils;
@@ -25,7 +24,7 @@ import org.apache.commons.io.IOUtils;
 public class DiskFile {
 
     public static String loadFileIntoString(String filePath) throws FileNotFoundException, IOException {
-        return IOUtils.toString(new FileInputStream(filePath), "UTF-8");
+        return IOUtils.toString(DiskFile.class.getResourceAsStream(filePath), "UTF-8");
     }
 
     public static void saveStringIntoFile(String filePath, String content) throws IOException {

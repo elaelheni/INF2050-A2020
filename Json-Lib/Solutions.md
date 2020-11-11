@@ -2,7 +2,7 @@
 
 ## Exercices
 
-1. Écrivez un programme qui lit ce [document JSON](./json/collection.json) et qui affiche à la
+1. Écrivez un programme qui lit ce [document JSON](json/collection.json) et qui affiche à la
    console les informations suivantes :
    * le nombre d'albums;
    * le nombre de singles;

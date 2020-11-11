@@ -3,7 +3,7 @@ public class CalculTaxes {
     static final double TAXE_FEDERALE = 0.05;
     static final double TAXE_PROVINCIALE = 0.09975;
 
-    public static long calculerTaxes (long sous, boolean taxeFed, boolean taxeProv){
+   static long calculerTaxes (long sous, boolean taxeFed, boolean taxeProv){
         long resultat = sous;
         if (resultat <= 0){
             throw new IllegalArgumentException("Montant incorrect");

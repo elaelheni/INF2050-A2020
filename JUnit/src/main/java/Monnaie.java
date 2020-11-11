@@ -13,11 +13,11 @@ public class Monnaie {
         return new Monnaie (this.sous + autre.sous);
     }
 
-    public Monnaie soustraire(Monnaie autre){
+    Monnaie soustraire(Monnaie autre){
         return new Monnaie (this.sous - autre.sous);
     }
 
-    public Monnaie pourcentage (double pourcentage){
+    Monnaie pourcentage (double pourcentage){
         return new Monnaie (Math.round(this.sous * (pourcentage/100)));
     }
 
