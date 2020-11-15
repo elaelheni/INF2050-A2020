@@ -31,7 +31,7 @@ Sinon pensez à rejoindre le canal du cours sur le [slack de l'AGEEI](https://ag
 - L'enregistrement de la quatrième séance est disponible [ici](https://drive.google.com/file/d/1-BP_B0QmNHJkW_LL5QQENVWH8A0Gv9a2/view?usp=sharing)
 - L'enregistrement de la cinquième séance est disponible [ici](https://drive.google.com/file/d/1ZJmqGGxUMRfk-6dOq-5SGcoXDDtkNIzm/view?usp=sharing)
 - L'enregistrement de la sixème séance est disponible [ici](https://drive.google.com/drive/folders/1XLYX2SGK_nYZDf49efMA6mOtyWUuqbxJ?usp=sharing)
-
+- L'enregistrement de la septième séance est disponible [ici](https://drive.google.com/file/d/17gz9yw3hSkXECpRr2Di513Rc8RDsXCyT/view?usp=sharing)
 
 ## Liens utiles :
 
