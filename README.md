@@ -13,6 +13,7 @@ Ce dépot contient les solutionnaires des ateliers du cours INF2050.
 - Quatrième séance : Librairie [JSON-LIB](./Json-Lib)
 - Cinquième séance : [Normes de codification et Analyse statique](./Normes+PMD)
 - Sixième séance : Écriture des tests unitaires [JUnit](./JUnit)
+- Septième séance : [Refactoring](./Refactoring)
 
 ## Contact :
 
