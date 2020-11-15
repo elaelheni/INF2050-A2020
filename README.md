@@ -14,6 +14,7 @@ Ce dépot contient les solutionnaires des ateliers du cours INF2050.
 - Cinquième séance : [Normes de codification et Analyse statique](./Normes+PMD)
 - Sixième séance : Écriture des tests unitaires [JUnit](./JUnit)
 - Septième séance : [Refactoring](./Refactoring)
+- Huitième séance : [Test-Driven-Development](./TDD)
 
 ## Contact :
 
