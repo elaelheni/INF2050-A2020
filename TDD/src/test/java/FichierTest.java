@@ -1,6 +1,7 @@
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 public class FichierTest {
 
@@ -19,5 +20,10 @@ public class FichierTest {
     @Test
     public void testExtensionFichier2(){
         assertEquals("", Fichier.extensionFichier("/Users/ela/blabla/fichier"));
+    }
+
+    @Test
+    public void testAleatoire(){
+        assertTrue (Fichier.aleatoire(9,4) >= 4 && Fichier.aleatoire(9,4) <= 9 );
     }
 }
