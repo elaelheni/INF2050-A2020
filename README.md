@@ -15,6 +15,7 @@ Ce dépot contient les solutionnaires des ateliers du cours INF2050.
 - Sixième séance : Écriture des tests unitaires [JUnit](./JUnit)
 - Septième séance : [Refactoring](./Refactoring)
 - Huitième séance : [Test-Driven-Development](./TDD)
+- Neuvième séance : [Plan de tests](./Plan-de-tests)
 
 ## Contact :
 
