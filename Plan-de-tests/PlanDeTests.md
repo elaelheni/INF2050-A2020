@@ -14,8 +14,8 @@ Liste des exigences
 Plan de tests
 ==========
 
-| N.  | Fonctionnalité | Résultat attendu           | Description                   | Données                                                                                            |
--------------------------------------------------------------------------------------------------------------------------------------------------------------
+| N.  | Fonctionnalité | Résultat attendu           | Description                   | Données  |                                                                                          
+| :----: | :-------------- | :--------------------------- | :----------------------------- | :---------- |
 |  C1   |   TP1.1                       |  Message d'erreur                          | Séparation des champs éronnée  |     Données complètes, séparées par autre qu'une virgule `,` (expl : ` ` `.`..)                                  |
 |  C2   |  TP1.4                        | Message d'erreur                           | Champ manquant                         | Données complètes, champ date manquant (2 tests fonctionnels)
 | C3    | TP1.4                         | Message d'erreur                           | Champ manquant                         | Données complètes, champ heure manquant (2 tests fonctionnels)
