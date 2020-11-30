@@ -16,6 +16,7 @@ Ce dépot contient les solutionnaires des ateliers du cours INF2050.
 - Septième séance : [Refactoring](./Refactoring)
 - Huitième séance : [Test-Driven-Development](./TDD)
 - Neuvième séance : [Plan de tests](./Plan-de-tests)
+- Séance annulée : [Tests Fonctionnels] (./Tests-Fonctionnels)
 
 ## Contact :
 
@@ -34,6 +35,7 @@ Sinon pensez à rejoindre le canal du cours sur le [slack de l'AGEEI](https://ag
 - L'enregistrement de la sixème séance est disponible [ici](https://drive.google.com/drive/folders/1XLYX2SGK_nYZDf49efMA6mOtyWUuqbxJ?usp=sharing)
 - L'enregistrement de la septième séance est disponible [ici](https://drive.google.com/file/d/17gz9yw3hSkXECpRr2Di513Rc8RDsXCyT/view?usp=sharing)
 - L'enregistrement de la huitième séance est disponible [ici](https://drive.google.com/file/d/1iuxiV6aG_jvQtZ2UQY3C6DCO_Y6879PL/view?usp=sharing)
+- L'enregistrement de la neuvième séance n'est pas disponible.
 
 ## Liens utiles :
 
