@@ -13,7 +13,7 @@ Liste des exigences
 - TP.11 : Un homme de moins de 18 ans n'est pas éligible à l'assurance.
 - TP.12 : Une personne agée de 100 ans ou plus n'est pas éligible à l'assurance.
 - TP.13 : Une personne possédant un véhicule de plus de 25 ans n'est pas éligible à l'assurance.
--TP.14 : Une personne possédant un véhicule de plus de 100 000$ à l'achat n'est pas éligible à l'assurance.
+- TP.14 : Une personne possédant un véhicule de plus de 100 000$ à l'achat n'est pas éligible à l'assurance.
 - TP.15 : Une personne avec 4 réclamations n'est pas éligible à l'assurance.
 - TP.16 : Un epersonne avec plus de 35 000$ de réclamations n'est pas éligible à l'assurance.
 - TP.17 : Pour un homme de moins de 25 ans le montant de base represente 5% de la valeur d'achat du véhicule.
