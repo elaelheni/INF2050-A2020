@@ -16,7 +16,7 @@ Ce dépot contient les solutionnaires des ateliers du cours INF2050.
 - Septième séance : [Refactoring](./Refactoring)
 - Huitième séance : [Test-Driven-Development](./TDD)
 - Neuvième séance : [Plan de tests](./Plan-de-tests)
-- Séance annulée : [Tests Fonctionnels] (./Tests-Fonctionnels)
+- Séance annulée : [Tests Fonctionnels](./Tests-Fonctionnels)
 
 ## Contact :
 
