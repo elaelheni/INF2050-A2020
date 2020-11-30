@@ -1,0 +1,7 @@
+tp1.1.csv : Erreur ! Le format du fichier d'entrée est éronné. Les données doivent etre séparées par des `,`.
+tp1.3-entete-date.csv : Erreur ! A la ligne 1 du fichier d'entrée le champ date est manquant.
+tp1.3-colonne-date.csv : Erreur ! A la ligne 3 du fichier d'entrée le champ date est manquant.
+tp1.3-entete heure.csv : Erreur ! A la ligne 1 du fichier d'entrée le champ heure est manquant.
+tp1.3-colonne-heure.csv : Erreur ! A la ligne 11 du fichier d'entrée le champ heure est manquant.
+tp1.6-parc-vide.csv : Erreur ! A la ligne 8 du fichier d'entrée le champ parc reçoit une valeur vide et/ou nulle.
+tp1.6-parc-null.cs : Erreur ! A la ligne 12 du fichier d'entrée le champ parc reçoit une valeur vide et/ou nulle.
