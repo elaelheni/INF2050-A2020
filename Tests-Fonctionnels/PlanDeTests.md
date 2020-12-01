@@ -9,7 +9,7 @@ Liste des exigences
 - TP1.7 : Le champ `Arrondissement` doit etre présent et différent d'une chaine vide.
 - TP1.8 : Le champ `Description` doit etre présent et different d'une chaine vide.
 - TP1.9 :  Les noms des fichiers d'entrée et de sortie sont reçus en paramètres au programme.
-- TP1.8 : Terminer l'execution avec un message d'erreur significatif à la console si entrée non conforme. 
+- TP1.10 : Terminer l'execution avec un message d'erreur significatif à la console si entrée non conforme. 
 
 
 
