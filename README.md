@@ -17,6 +17,7 @@ Ce dépot contient les solutionnaires des ateliers du cours INF2050.
 - Huitième séance : [Test-Driven-Development](./TDD)
 - Neuvième séance : [Plan de tests](./Plan-de-tests)
 - Séance annulée : [Tests Fonctionnels](./Tests-Fonctionnels)
+- Dixième séance : Les [branches](./GIT2) avec git.
 
 ## Contact :
 
@@ -36,6 +37,7 @@ Sinon pensez à rejoindre le canal du cours sur le [slack de l'AGEEI](https://ag
 - L'enregistrement de la septième séance est disponible [ici](https://drive.google.com/file/d/17gz9yw3hSkXECpRr2Di513Rc8RDsXCyT/view?usp=sharing)
 - L'enregistrement de la huitième séance est disponible [ici](https://drive.google.com/file/d/1iuxiV6aG_jvQtZ2UQY3C6DCO_Y6879PL/view?usp=sharing)
 - L'enregistrement de la neuvième séance n'est pas disponible.
+- L'enregistrement de la dixième séance est disponible [ici](https://drive.google.com/file/d/1AZR5JpJgRanMtCpchpNkRJkie-Ysds0x/view?usp=sharing)
 
 ## Liens utiles :
 
