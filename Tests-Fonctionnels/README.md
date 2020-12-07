@@ -5,7 +5,7 @@ Tests Fonctionnels
 
 - **Note** : Cet exemple est à completer avec les parties suivantes du projet de session.
 
-- Quelques exemples de tests fonctionnels sont [ici] (./Tests) ainsi que les résultats [attendus](./ResultatsAttendus.txt) pour ces tests. Il est à noter qu'il faut créer des tests fonctionnels pour toutes les possibilités imaginalbes.
+- Quelques exemples de tests fonctionnels sont [ici](./Tests) ainsi que les résultats [attendus](./ResultatsAttendus.txt) pour ces tests. Il est à noter qu'il faut créer des tests fonctionnels pour toutes les possibilités imaginalbes.
 
 
 - **Note** :  `Cx` : represente le numéro de la contrainte . 
